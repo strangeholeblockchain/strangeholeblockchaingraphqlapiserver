@@ -1,0 +1,2 @@
+# strangeholeblockchaingraphqlapiserver
+Strangehole blockchain GraphQL API server
